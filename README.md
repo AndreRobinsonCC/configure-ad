@@ -44,7 +44,7 @@ Connectivity between the Client and Domain Controller.
 <img src="https://github.com/AndreRobinsonCC/configure-ad/assets/133404844/f3032d98-3794-4717-b023-0f4bc3e72003" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Client joined to Domain
+Client joined to Domain.
 </p>
 <br />
 
@@ -52,6 +52,6 @@ Client joined to Domain
 <img src="https://github.com/AndreRobinsonCC/configure-ad/assets/133404844/779baa3d-e851-43ad-a4eb-4b6cd6ffa1ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Users created and ready to login to Client.
 </p>
 <br />
